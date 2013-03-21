@@ -15,7 +15,6 @@ class Solido {
 
     public Solido() {
 
-        
     }
 
     void calcola() {
